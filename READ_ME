@@ -1,0 +1,21 @@
+=====---                    ---=====
+===--          READ_ME         --===
+=====---                    ---=====
+
+
+Comment utiliser le programme
+	Le programme attend un problème sur l'entrée standard
+	Exemples de problème :
+		"8/8/8/5k2/2Q2P2/5P2/3K4/8 w 1" (blanc mat en 1 coup)
+		"6k1/P1R2ppp/b7/8/8/7P/2r2PPK/r7 w 2" (blanc mat en 2 coup)
+		"3n4/6K1/5R1r/6k1/7p/6pP/5P2/8 w -" (blanc mat en x coups)
+
+
+Ce que fait le programme
+	Résoud un problème d'échecs donné en entrée standard
+
+
+Ce que ne fait pas le programme
+	Castling
+	Capture de pion "en passant"
+	Le chargement est interminable pour les pb > 2 coups
