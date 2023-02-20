@@ -26,4 +26,4 @@ Not implemented :
 - Le programme ne gère pas le roque et les captures "en passant".
 - La recherche (un simple minimax) n'intègre pas d'alpha beta ou de tables de transpositions.
 
-Harry Gueguen.
+Harry Jmg.
